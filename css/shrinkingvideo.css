@@ -1,0 +1,34 @@
+.shrinking_video-top-right{
+	top: 0;
+	right: 0 !important;
+	left: initial !important;
+	bottom: initial !important;
+}
+.shrinking_video-top-left{
+	top: 0;
+	left: 0 !important;
+	right: initial !important;
+	bottom: initial !important;
+}
+.shrinking_video-bottom-right{
+	bottom: 0 !important;
+	right: 0 !important;
+	top: initial !important;
+	left: initial !important;
+}
+.shrinking_video-bottom-left{
+	bottom: 0 !important;
+	left: 0 !important;
+	right: initial !important;
+	top: initial !important;
+}
+.shrinking_video-frame{
+	z-index: 999999 !important;
+	position: fixed !important;
+	height: 225px !important;
+	width: 275px !important;
+	margin: 0 !important;
+}
+.shrinking_video-normal{
+	position: static !important;
+}
